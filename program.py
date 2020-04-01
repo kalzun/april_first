@@ -1,2 +1,6 @@
 def foo():
-  return 'bar'
+    return 'bar'
+
+
+def plussTwo(number):
+    return number+2
