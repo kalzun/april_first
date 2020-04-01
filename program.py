@@ -1,4 +1,4 @@
-def foo():
+def i_like_turtles():
     return 'bar'
 
 
