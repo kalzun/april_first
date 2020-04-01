@@ -1,4 +1,4 @@
-def foo():
+def aprils_fool():
     return 'bar'
 
 
